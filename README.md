@@ -12,6 +12,8 @@ https://github.com/seoulhot
 
 http://www.incheon.go.kr/posts/incheon-news/9993
 
+[![System Demo](https://github.com/drexly/HotPle/blob/master/prize_icn.png)](http://www.incheon.go.kr/posts/incheon-news/9993)
+
 [![System Demo](http://img.youtube.com/vi/EWfLJdKp21U/hqdefault.jpg)](https://youtu.be/EWfLJdKp21U)
 
 * * *
